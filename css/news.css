@@ -1,0 +1,23 @@
+
+.articles {
+    margin: 0 20px 20px 20px;
+}
+
+.newsItem {
+    display: flex;
+    padding: 5px;
+    align-items: flex-start;
+    margin: 20px 0 20px 0;
+}
+
+.newsText {
+    flex: 50%;
+    margin: 5px;
+    color: white;
+    text-align: left;
+}
+
+.newsItem img {
+    margin: 5px;
+    flex: 50%;
+}

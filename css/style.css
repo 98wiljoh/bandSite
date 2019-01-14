@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.container {
+    margin-top: 50px;
+    width: 70%;
+}
+
+header {
+    padding: 20px 0 0 0;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 20px;
+}
+
+header h1 a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    margin-top: 20px;
+    background-color: brown;
+    padding: 5px;
+    text-align: left;
+}
+
+nav a {
+    align-content: left;
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.container h1 {
+    font-size: 50px;
+}
